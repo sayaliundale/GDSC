@@ -1,0 +1,40 @@
+.navbar {
+  width: 100%;
+  top: 0rem;
+  margin: 0rem;
+  display: flex;
+}
+.img {
+  height: 3.5rem;
+  width: 6rem;
+  margin-left: 6rem;
+}
+.logo {
+  height: 10rem;
+  width: 35rem;
+
+  padding: 2rem;
+}
+.club_name {
+  font-size: 1.3rem;
+  margin-top: 0.19rem;
+  color: rgb(103, 101, 101);
+}
+.club_subname {
+  margin-top: -1.1rem;
+  color: rgb(69, 68, 68);
+  font-size: 1.2rem;
+  margin-left: 5rem;
+  font-weight: initial;
+}
+.navitems_list {
+  list-style: none;
+  display: flex;
+  margin-left: 7rem;
+  margin-top: 3rem;
+  color: rgb(69, 68, 68);
+}
+.navitems_list li {
+  margin-left: 5rem;
+  font-size: 1.3rem;
+}
